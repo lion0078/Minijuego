@@ -1,1 +1,1 @@
-![Imagen del Programa]("https://i.imgur.com/nRXPvyK.png")
+![Imagen del Programa](https://i.imgur.com/nRXPvyK.png)
