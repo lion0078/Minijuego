@@ -1,1 +1,2 @@
 ![Imagen del Programa](https://i.imgur.com/nRXPvyK.png)
+<p>un juego simple en Python usando Tkinter. El jugador, representado por un emoji, se mueve con las teclas de dirección en una ventana gráfica. Debe recolectar comida (🍎) que aparece aleatoriamente, mientras evita enemigos (👾) que lo persiguen. Cada vez que el jugador recoge comida, gana un punto y se genera un nuevo enemigo. Si un enemigo alcanza al jugador, el juego termina.</p>
